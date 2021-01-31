@@ -49,10 +49,11 @@
     user-select: none;
     z-index: 1;
 }
-.action-button{
+.action-button:hover{
     color: white;
     background-color: #00000055;
     border-radius: 10px;
     cursor: pointer;
     transition: all 1s;
 }
+
