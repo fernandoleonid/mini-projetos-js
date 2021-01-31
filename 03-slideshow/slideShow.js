@@ -10,58 +10,31 @@ const images = [
 ]
 
 const containerItems = document.querySelector('#container-items');
-console.log (containerItems);
-
-const selectedIndicators = (number) => {
-    const indicators = document.querySelectorAll('.indicators span');
-    indicators.forEach( indicator => indicator.classList.remove('selected'));
-    indicators[number].classList.add('selected'); 
-}
 
 const loadImages = ( images, container ) => {
     images.forEach ( image => {
         container.innerHTML += `
-        <div class='item' data-number='${image.id}'>
-        <img src='${image.url}'>
-        </div>
+            <div class='item'>
+                <img src='${image.url}'
+            </div>
         `
     })
 }
 
 loadImages( images, containerItems );
 
-
-
 let items = document.querySelectorAll('.item');
+
 const previous = () => {
     containerItems.appendChild(items[0]);
     items = document.querySelectorAll('.item');
-    selectedIndicators(items[1].dataset.number-1);
 }
 
 const next = () => {
     const lastItem = items[items.length - 1];
-    containerItems.insertBefore (lastItem, items[0]);
-    items = document.querySelectorAll ('.item');
-    selectedIndicators(items[1].dataset.number-1);
+    containerItems.insertBefore( lastItem, items[0] );
+    items = document.querySelectorAll('.item');
 }
 
-const indicators = (event) => {
-
-    let selectedSlide = event.target.dataset.number;
-    let visibleSlide = items[1].dataset.number;
-   
-    if (selectedSlide != visibleSlide) {
-        const teste = setInterval(() => {
-            next();
-            visibleSlide = items[1].dataset.number;
-
-            if (selectedSlide == visibleSlide) clearInterval(teste);
-
-        }, 50);
-    }
-
-}
 document.querySelector('#previous').addEventListener('click', previous);
 document.querySelector('#next').addEventListener('click', next);
-document.querySelector('.indicators').addEventListener('click',indicators);
