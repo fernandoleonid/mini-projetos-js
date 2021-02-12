@@ -6,6 +6,6 @@ Pensando nisso esse repositório tem como objetivo dar ideia de projetos que pod
 
 Se gostou da ideia acompanhe os projetos abaixo:
 
-| Problema  |  Nome  |  Solução  |
+| Projeto |  Código  |  Resultado  |
 | --------- | ------ | --------- |
-|  00 | [Calculadora IMC](./00-imc) |
+|  00 | [Calculadora IMC](./00-imc) | [Calculadora IMC](https://fernandoleonid.github.io/mini-projetos-js/00-imc/) |
