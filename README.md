@@ -15,5 +15,5 @@ Se gostou da ideia acompanhe os projetos abaixo:
 
 ## 01 - Lâmpada 
 <a href="https://fernandoleonid.github.io/mini-projetos-js/01-lampada/"> <img src="./img/01-lamp.gif" width=40%> </a>
-* <a href="https://fernandoleonid.github.io/mini-projetos-js/00-lamp/">Verifique o código</a>
+* <a href="https://fernandoleonid.github.io/mini-projetos-js/01-lamp/">Verifique o código</a>
 * <a href="https://youtu.be/4r0zOW9Zn-Y" target="_blank">Acompanhe o vídeo</a>
