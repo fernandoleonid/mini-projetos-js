@@ -17,3 +17,34 @@ Se gostou da ideia acompanhe os projetos abaixo:
 <a href="https://fernandoleonid.github.io/mini-projetos-js/01-lampada/"> <img src="./img/01-lamp.gif" width=50%> </a>
 * <a href="./01-lamp/">Verifique o código</a>
 * <a href="https://youtu.be/4r0zOW9Zn-Y" target="_blank">Acompanhe o vídeo</a>
+
+## 02 - Semáforo 
+<a href="https://fernandoleonid.github.io/mini-projetos-js/02-semaforo/"> <img src="./img/02-semaforo.gif" width=50%> </a>
+* <a href="./02-semaforo/">Verifique o código</a>
+* <a href="https://youtu.be/EujFSEsZsk4" target="_blank">Acompanhe o vídeo</a>
+
+## 03 - Slide Show 
+<a href="https://fernandoleonid.github.io/mini-projetos-js/03-slideshow/"> <img src="./img/03-slideshow.gif" width=50%> </a>
+* <a href="./03-slideshow/">Verifique o código</a>
+* <a href="https://youtu.be/csNYVAS2ex8" target="_blank">Acompanhe o vídeo</a>
+
+## 04 - SlideShow 
+<a href="https://fernandoleonid.github.io/mini-projetos-js/04-DRUM-KIT/"> <img src="./img/04-DRUM-KIT.gif" width=50%> </a>
+* <a href="./04-DRUM-KIT/">Verifique o código</a>
+* <a href="https://youtu.be/2qA8tlJ24uQ" target="_blank">Acompanhe o vídeo</a>
+
+## 05 - CountDown 
+<a href="https://fernandoleonid.github.io/mini-projetos-js/05-countdown/"> <img src="./img/05-countdown.gif" width=50%> </a>
+* <a href="./05-countdown/">Verifique o código</a>
+* <a href="https://youtu.be/nmWrwFjiCvo" target="_blank">Acompanhe o vídeo</a>
+
+## 06 - Calculadora
+<a href="https://fernandoleonid.github.io/mini-projetos-js/06-Calculadora/"> <img src="./img/06-Calculadora.gif" width=50%> </a>
+* <a href="./06-Calculadora/">Verifique o código</a>
+* <a href="https://youtu.be/oRZQ5EZOrQk" target="_blank">Acompanhe o vídeo</a>
+
+## 06 - To-do-list
+<a href="https://fernandoleonid.github.io/mini-projetos-js/07-todo-List/"> <img src="./img/07-todo-List.gif" width=50%> </a>
+* <a href="./07-todo-List/">Verifique o código</a>
+* <a href="https://youtu.be/oGEYs52ZuHY" target="_blank">Acompanhe o vídeo</a>
+
