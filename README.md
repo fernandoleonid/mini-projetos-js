@@ -28,7 +28,7 @@ Se gostou da ideia acompanhe os projetos abaixo:
 * <a href="./03-slideshow/">Verifique o código</a>
 * <a href="https://youtu.be/csNYVAS2ex8" target="_blank">Acompanhe o vídeo</a>
 
-## 04 - SlideShow 
+## 04 - DRUM KIT 
 <a href="https://fernandoleonid.github.io/mini-projetos-js/04-DRUM-KIT/"> <img src="./img/04-DRUM-KIT.gif" width=50%> </a>
 * <a href="./04-DRUM-KIT/">Verifique o código</a>
 * <a href="https://youtu.be/2qA8tlJ24uQ" target="_blank">Acompanhe o vídeo</a>
