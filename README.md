@@ -12,13 +12,8 @@ Se gostou da ideia acompanhe os projetos abaixo:
 * <a href="./00-imc/">Verifique o código</a>
 * <a href="https://youtu.be/RacwEvoTz_Y" target="_blank">Acompanhe o vídeo</a>
 
-## 00 - Calculadora IMC
-<a href='https://fernandoleonid.github.io/mini-projetos-js/00-imc/'><img src='./img/00-imc.gif' width='50%'></a>
-* <a href="./00-imc/">Verifique o código</a>
-* <a href="https://youtu.be/RacwEvoTz_Y" target="_blank">Acompanhe o vídeo</a>
-
-## 01 - Lâmpada 
-<a href='https://fernandoleonid.github.io/mini-projetos-js/00-lampada/'><img src='./img/00-lamp.gif' width='50%'></a>
+## 01 - Lâmpada
+<a href='https://fernandoleonid.github.io/mini-projetos-js/00-lampada/'><img src='./img/01-lamp.gif' width='50%'></a>
 * <a href="./01-lamp/">Verifique o código</a>
 * <a href="https://youtu.be/4r0zOW9Zn-Y" target="_blank">Acompanhe o vídeo</a>
 
