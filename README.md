@@ -9,9 +9,10 @@ Você pode realizar observando o resultado, ou verificando o código, ou ainda a
 Se gostou da ideia acompanhe os projetos abaixo:
 
 ## 00 - Calculadora IMC
-<a href='https://fernandoleonid.github.io/mini-projetos-js/00-imc/'><img src='./img/00-imc.gif' width='50%'></a>
-* <a href="./00-imc/">Verifique o código</a>
-* <a href="https://youtu.be/RacwEvoTz_Y" target="_blank">Acompanhe o vídeo</a>
+* [Verifique o código](./00-imc/)
+* [Acompanhe o vídeo](https://youtu.be/RacwEvoTz_Y)
+
+[<img src='./img/00-imc.gif' width='50%'>](https://fernandoleonid.github.io/mini-projetos-js/00-imc/)
 
 ## 01 - Lâmpada
 <a href='https://fernandoleonid.github.io/mini-projetos-js/01-lamp/'><img src='./img/01-lamp.gif' width='50%'></a>
