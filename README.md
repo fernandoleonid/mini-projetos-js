@@ -23,7 +23,6 @@ Se gostou da ideia acompanhe os projetos abaixo:
 * <a href="https://youtu.be/4r0zOW9Zn-Y" target="_blank">Acompanhe o vídeo</a>
 
 <a href='https://fernandoleonid.github.io/mini-projetos-js/01-lamp/'><img src='./img/01-lamp.gif' width='50%'></a>
-       
         </td>
         <td>
 
