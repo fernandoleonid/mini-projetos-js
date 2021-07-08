@@ -15,14 +15,14 @@ Se gostou da ideia acompanhe os projetos abaixo:
 * [Verifique o código](./00-imc/)
 * [Acompanhe o vídeo](https://youtu.be/RacwEvoTz_Y)
 
-[<img src='./img/00-imc.gif' width='50%'>](https://fernandoleonid.github.io/mini-projetos-js/00-imc/)
+[<img src='./img/00-imc.gif'>](https://fernandoleonid.github.io/mini-projetos-js/00-imc/)
         </td>
         <td>
 ## 01 - Lâmpada
 * <a href="./01-lamp/">Verifique o código</a>
 * <a href="https://youtu.be/4r0zOW9Zn-Y" target="_blank">Acompanhe o vídeo</a>
 
-<a href='https://fernandoleonid.github.io/mini-projetos-js/01-lamp/'><img src='./img/01-lamp.gif' width='50%'></a>
+<a href='https://fernandoleonid.github.io/mini-projetos-js/01-lamp/'><img src='./img/01-lamp.gif'></a>
         </td>
         <td>
 
@@ -30,7 +30,7 @@ Se gostou da ideia acompanhe os projetos abaixo:
 * [Verifique o código](./02-semaforo/)
 * [Acompanhe o vídeo](https://youtu.be/EujFSEsZsk4)
 
-[<img src='./img/02-semaforo.gif' width='50%'>](https://fernandoleonid.github.io/mini-projetos-js/02-semaforo/)
+[<img src='./img/02-semaforo.gif'>](https://fernandoleonid.github.io/mini-projetos-js/02-semaforo/)
         </td>
     <tr>
 </table>
