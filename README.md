@@ -7,8 +7,36 @@ Pensando nisso, criei este repositório com objetivo juntar ideias para mini pro
 Você pode realizar observando o resultado, ou verificando o código, ou ainda acompanhando o desenvolvimento por meio de videos.
 
 Se gostou da ideia acompanhe os projetos abaixo:
+<table border="1">
+    <tr>
+        <td>
 
 ## 00 - Calculadora IMC
+* [Verifique o código](./00-imc/)
+* [Acompanhe o vídeo](https://youtu.be/RacwEvoTz_Y)
+
+[<img src='./img/00-imc.gif' width='50%'>](https://fernandoleonid.github.io/mini-projetos-js/00-imc/)
+        </td>
+        <td>
+## 01 - Lâmpada
+* <a href="./01-lamp/">Verifique o código</a>
+* <a href="https://youtu.be/4r0zOW9Zn-Y" target="_blank">Acompanhe o vídeo</a>
+
+<a href='https://fernandoleonid.github.io/mini-projetos-js/01-lamp/'><img src='./img/01-lamp.gif' width='50%'></a>
+       
+        </td>
+        <td>
+
+## 02 - Semáforo
+* [Verifique o código](./02-semaforo/)
+* [Acompanhe o vídeo](https://youtu.be/EujFSEsZsk4)
+
+[<img src='./img/02-semaforo.gif' width='50%'>](https://fernandoleonid.github.io/mini-projetos-js/02-semaforo/)
+        </td>
+    <tr>
+</table>
+
+<!-- ## 00 - Calculadora IMC
 * [Verifique o código](./00-imc/)
 * [Acompanhe o vídeo](https://youtu.be/RacwEvoTz_Y)
 
@@ -22,7 +50,7 @@ Se gostou da ideia acompanhe os projetos abaixo:
 ## 02 - Semáforo
 <a href='https://fernandoleonid.github.io/mini-projetos-js/02-semaforo/'><img src='./img/02-semaforo.gif' width='50%'></a>
 * <a href="./02-semaforo/">Verifique o código</a>
-* <a href="https://youtu.be/EujFSEsZsk4" target="_blank">Acompanhe o vídeo</a>
+* <a href="https://youtu.be/EujFSEsZsk4" target="_blank">Acompanhe o vídeo</a> -->
 
 ## 03 - Slide Show
 <a href='https://fernandoleonid.github.io/mini-projetos-js/03-slideshow/'><img src='./img/03-slideshow.gif' width='50%'></a>
