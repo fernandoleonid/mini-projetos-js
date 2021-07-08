@@ -7,6 +7,7 @@ Pensando nisso, criei este repositório com objetivo juntar ideias para mini pro
 Você pode realizar observando o resultado, ou verificando o código, ou ainda acompanhando o desenvolvimento por meio de videos.
 
 Se gostou da ideia acompanhe os projetos abaixo:
+
 <table border="1">
     <tr>
         <td>
