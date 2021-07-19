@@ -15,6 +15,7 @@ function lampOn () {
 function lampOff () {
     if ( !isLampBroken () ) {
         lamp.src = './img/desligada.jpg';
+        turnOnOff.textContent = 'Ligar';
     }
 }
 
