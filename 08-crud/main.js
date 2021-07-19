@@ -138,3 +138,6 @@ document.getElementById('salvar')
 
 document.querySelector('#tableClient>tbody')
     .addEventListener('click', editDelete)
+
+document.getElementById('cancelar')
+    .addEventListener('click', closeModal)
