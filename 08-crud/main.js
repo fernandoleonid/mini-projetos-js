@@ -42,9 +42,11 @@ const isValidFields = () => {
 const clearFields = () => {
     const fields = document.querySelectorAll('.modal-field')
     fields.forEach(field => field.value = "")
+    document.getElementById('nome').dataset.index = "new"
 }
 
 const saveClient = () => {
+    debugger
     if (isValidFields()) {
         const client = {
             nome: document.getElementById('nome').value,
