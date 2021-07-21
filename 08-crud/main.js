@@ -42,6 +42,7 @@ const isValidFields = () => {
 const clearFields = () => {
     const fields = document.querySelectorAll('.modal-field')
     fields.forEach(field => field.value = "")
+    document.getElementById('nome').dataset.index = 'new'
 }
 
 const saveClient = () => {
