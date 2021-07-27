@@ -8,7 +8,6 @@ Você pode realizar observando o resultado, ou verificando o código, ou ainda a
 
 Se gostou da ideia acompanhe os projetos abaixo:
 
-
 <table border="2">
   <tr>
     <td>
@@ -23,22 +22,20 @@ Se gostou da ideia acompanhe os projetos abaixo:
         <li><a href="https://youtu.be/4r0zOW9Zn-Y">Passo a passo</a></li>
         <a href="https://fernandoleonid.github.io/mini-projetos-js/01-lamp/"><img src="./img/01-lamp.gif"></a>
     </td>
-  </tr>
-  <tr>
     <td>
       <h3>02 - Semáforo</h3>
       <li><a href="./02-semaforo/">Código</a></li>
       <li><a href="https://youtu.be/EujFSEsZsk4">Passo a passo</a></li>
       <a href="https://fernandoleonid.github.io/mini-projetos-js/02-semaforo/"><img src="./img/02-semaforo.gif" ></a>
     </td>
+  </tr>
+  <tr>
     <td>
       <h3>03 - Slide Show</h3>
       <li><a href="./03-slideshow/">Código</a></li>
       <li><a href="https://youtu.be/csNYVAS2ex8">Passo a passo</a></li>
       <a href="https://fernandoleonid.github.io/mini-projetos-js/03-slideshow/"><img src="./img/03-slideshow.gif" ></a>
     </td>
-  </tr>
-  <tr>
     <td>
       <h3>04 - Drum-kit</h3>
       <li><a href="./04-DRUM-KIT/">Código</a></li>
