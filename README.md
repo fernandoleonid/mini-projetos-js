@@ -8,7 +8,7 @@ Você pode realizar observando o resultado, ou verificando o código, ou ainda a
 
 Se gostou da ideia acompanhe os projetos abaixo:
 
-<table border=1>
+<table border="2">
   <tr>
     <td>
         <h3>00 - Calculadora IMC</h3>
@@ -63,13 +63,3 @@ Se gostou da ideia acompanhe os projetos abaixo:
   </tr>
   
 </table>
-
-<table border="1">
-    <tr>
-        <td>
-
-
-## 
-<a href=''><img src='' width='50%'></a>
-* <a href="">Verifique o código</a>
-* <a href="" target="_blank">Acompanhe o vídeo</a>
