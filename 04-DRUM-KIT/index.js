@@ -53,4 +53,4 @@ exibir(sons);
 document.getElementById('container')
         .addEventListener('click', ativarDiv);
 
-window.addEventListener('keydown',ativarDiv);
+window.addEventListener('keyup',ativarDiv);
