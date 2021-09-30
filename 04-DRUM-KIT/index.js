@@ -28,7 +28,7 @@ const tocarSom = (letra) => {
 }
 
 const adicionarEfeito = (letra) => document.getElementById(letra)
-                                           .classList.add('active');
+                                           .classList.toggle('active');
 
 const removerEfeito = (letra) => {
     const div = document.getElementById(letra);
