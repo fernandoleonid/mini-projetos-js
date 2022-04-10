@@ -1,8 +1,9 @@
-header, main {
+header,
+main {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-button{
+button {
     width: 80px;
 }
