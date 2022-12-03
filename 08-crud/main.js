@@ -43,6 +43,7 @@ const clearFields = () => {
     const fields = document.querySelectorAll('.modal-field')
     fields.forEach(field => field.value = "")
     document.getElementById('nome').dataset.index = 'new'
+    document.querySelector(".modal-header>h2").textContent  = 'Novo Cliente'
 }
 
 const saveClient = () => {
@@ -104,6 +105,7 @@ const editClient = (index) => {
     const client = readClient()[index]
     client.index = index
     fillFields(client)
+    document.querySelector(".modal-header>h2").textContent  = `Editando ${client.nome}`
     openModal()
 }
 
