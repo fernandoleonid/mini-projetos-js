@@ -10,7 +10,7 @@ main{
 .container{
   display: flex;
   flex-direction: column;
-  background: rgb(255,198,0);
+  background:red;
   width: 400px;
   height: 600px;
   align-items: center;
